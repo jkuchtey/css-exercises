@@ -1,0 +1,19 @@
+.pink {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+#firstdiv {
+    color: blue;
+    font-size: 36px;
+}
+
+.special{
+    font-size: 24px;
+}
+
+.green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
